@@ -7,11 +7,15 @@ Architecture
 <img src="Architecture.jpg">
 
 ## Technologies Used
-- **Programming Language:** Python
-- **Amazon Web Services (AWS):**
-  1. **S3 (Simple Storage Service)**
-  2. **Athena**
-  3. **Glue Crawler**
-  4. **Glue Catalog**
-  5. **EC2**
-- **Apache Kafka**
+Programming Language:
+Python
+
+## Amazon Web Services (AWS):
+S3 (Simple Storage Service)
+Athena
+Glue Crawler
+Glue Catalog
+EC2
+
+## Data Streaming:
+Apache Kafka
